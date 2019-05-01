@@ -1,5 +1,7 @@
 # tentacode-server
 
+Fork de la configuration du serveur de tentacode car il est intéressant pour une utilisation future.
+
 ## Setup ssh authentication
 
 ### Connect via ssh
